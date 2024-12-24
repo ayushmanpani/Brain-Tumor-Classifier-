@@ -22,7 +22,7 @@ The dataset used for this project is sourced from Kaggle and contains labeled MR
 - **Alternative Dataset Link (Google Drive):** [(https://drive.google.com/drive/folders/1ghc0L100ZcnXlWkR2z3q-alAiD8sXlRH?usp=drive_link)](#)
 
 ## Repository Contents
-- `Brain_Tumor_Classifier.ipynb`: Jupyter Notebook containing the entire pipeline, including:
+- `brain-tumor-mri-using-cnn.ipynb`: Jupyter Notebook containing the entire pipeline, including:
   - Dataset loading and preprocessing
   - Model training and evaluation
   - Visualization of results
@@ -58,7 +58,7 @@ pip install tensorflow numpy matplotlib opencv-python scikit-learn
    jupyter notebook
    ```
 
-4. Open and run the `Brain_Tumor_Classifier.ipynb` notebook.
+4. Open and run the `brain-tumor-mri-using-cnn.ipynb` notebook.
 
 5. Follow the instructions within the notebook to preprocess the data, train the model, and evaluate its performance.
 
